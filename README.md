@@ -1,4 +1,4 @@
 # ReactNative-Material-Authflow
 Material Design inspired clean and beautiful Authentication flow for React-Native
 
-<img align="left" width="100" height="100" src="ReactNative-Material-Authflow/assets/Screen Shot 2018-09-26 at 4.34.24 AM.png">
+<img align="left" width="100" height="100" src="https://raw.githubusercontent.com/samarv/ReactNative-Material-Authflow/master/assets/Screen%20Shot%202018-09-26%20at%204.34.24%20AM.png">
